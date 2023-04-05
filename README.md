@@ -1,1 +1,1 @@
-# newsletterEmail
+# Newsletter Email
